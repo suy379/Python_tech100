@@ -19,7 +19,7 @@ Thanks :)
 ### Chapter 9 ~ 10
 - It deals with basic AI technologies that deal with image, text unstructured data.
 - Chapter 9: image/video processing technology
-- Chapter 10: Natural Language Processing(NLP)
+- Chapter 10: Natural Language Processing(NLP)  
 
 
 ![](img_py100.jpg)
