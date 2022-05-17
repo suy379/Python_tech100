@@ -11,12 +11,12 @@ Thanks :)
 더 심화해서 공부한 내용과 설명은 [저의 블로그](https://suy379.tistory.com/20?category=937254)에 기록하였으니 관심 있으시면 참고하세요! :)     
 
 
-# Table of Contents
-## Chapter 1 ~ 8
+## Table of Contents
+### Chapter 1 ~ 8
 - It deals with practice-oriented data analysis.
 - Data preprocessing, groupby, plotting, Machine Learning(Regression, Classification), Optimization, Simulation
 
-## Chapter 9 ~ 10
+### Chapter 9 ~ 10
 - It deals with basic AI technologies that deal with image, text unstructured data.
 - Chapter 9: image/video processing technology
 - Chapter 10: Natural Language Processing(NLP)
